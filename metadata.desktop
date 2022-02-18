@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=dram-kwin
+Comment=KWin scripts by dram
+Icon=preferences-system-windows
+
+X-KDE-PluginInfo-Author=dram
+X-KDE-PluginInfo-Name=dram-kwin
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
